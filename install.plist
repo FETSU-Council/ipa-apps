@@ -13,6 +13,22 @@
 					<key>url</key>
 					<string>https://github.com/FETSU-Council/ipa-apps/raw/refs/heads/main/479516143_1.21.101.ipa</string>
 				</dict>
+<dict>
+<key>kind</key>
+<string>display-image</string>
+<key>needs-shine</key>
+<true/>
+<key>url</key>
+<string>https://github.com/FETSU-Council/ipa-apps/raw/refs/heads/main/IMG_0320.png</string>
+</dict>
+<dict>
+<key>kind</key>
+<string>full-size-image</string>
+<key>needs-shine</key>
+<true/>
+<key>url</key>
+<string>https://github.com/FETSU-Council/ipa-apps/raw/refs/heads/main/IMG_0320.png</string>
+</dict>
 			</array>
 			<key>metadata</key>
 			<dict>
@@ -24,6 +40,8 @@
 				<string>software</string>
 				<key>title</key>
 				<string>Minecraft</string>
+<key>subtitle</key>
+<string>Play with us</string>
 			</dict>
 		</dict>
 	</array>
